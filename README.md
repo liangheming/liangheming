@@ -13,5 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-![liangheming's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangheming&show_icons=true)
+<!--![liangheming's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangheming&show_icons=true) -->
+
+<a href="https://github.com/liangheming/github-readme-stats">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=liangheming" />
+</a>
+<a href="https://github.com/liangheming/convoychat">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liangheming&layout=compact&langs_count=4&card_width=320" />
+</a>
 
