@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!--![liangheming's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangheming&show_icons=true) -->
 
 <a href="https://github.com/liangheming/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=liangheming" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=liangheming&card_width=200" />
 </a>
 <a href="https://github.com/liangheming/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liangheming&layout=compact&langs_count=4&card_width=200" />
