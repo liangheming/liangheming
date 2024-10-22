@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=liangheming" />
 </a>
 <a href="https://github.com/liangheming/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liangheming&layout=compact&langs_count=4&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liangheming&layout=compact&langs_count=4&card_width=200" />
 </a>
 
